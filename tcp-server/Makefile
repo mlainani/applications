@@ -7,7 +7,7 @@ PKG_RELEASE:=0
 # 
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=file:///home/kong/making/projects/repos/tcp-server.git
-PKG_SOURCE_VERSION:=4ddfde9609422bfe3d6e90daee9da8bdd083d4a5
+PKG_SOURCE_VERSION:=f95220c72fbb24c5f6c1c59fa2115bed8fc2a9f5
 
 include $(INCLUDE_DIR)/package.mk
 
